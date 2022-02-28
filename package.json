@@ -1,0 +1,8 @@
+{
+  "name": "shapes",
+  "description": "New empty project",
+  "private": true,
+  "dependencies": {
+    "pex-random": "^1.0.1"
+  }
+}
